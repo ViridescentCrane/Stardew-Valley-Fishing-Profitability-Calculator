@@ -15,6 +15,8 @@ I also excluded the following factors from the program's calculations
 - trash percentages (the program assumes you will never catch trash)
 - time of day (I actually hope to add this in soon)
 
+There is also one known issue: the catfish is available in summer and fall but only in the secret woods swamp. The program currently does not take this into account and assumes the catfish can be caught in summer and fall in all the locations it appears. I hope to eventually patch this.
+
 With all that in mind, though, hopefully this will help some of you to make more money fishing.
 
 This program was written by me, Miriam Happ, and Andrew Klein. You are free to add onto, change, or otherwise use this program any way you wish. However I would appreciate it if you credited us or linked back to this GitHub page.
