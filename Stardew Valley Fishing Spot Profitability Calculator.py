@@ -18,7 +18,7 @@ List2=[]
 
 for season in ["spring","summer","fall","winter"]:
     for weather in ["clear","rainy"]:
-        for location in ["ocean","town river","forest river","mountain lake","forest pond","secret woods pond","the sewers","witch's swamp","ginger island ocean","mines 20f","mines 60f","mines 100f","volcano caldera","calico desert","ginger island pond","ginger island river","mutant bug lair","ginger island pirate cove"]:
+        for location in ["calico desert","forest pond","forest river","ginger island ocean","ginger island pirate cove","gi pond","gi river","mines 100f","mines 20f","mines 60f","mountain lake","mutant bug lair","ocean","secret woods pond","the sewers","town river","volcano caldera","witchs swamp"]:
             templist = []
             for item in List1:
                 item = item.split("|")
