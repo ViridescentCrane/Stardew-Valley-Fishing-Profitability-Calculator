@@ -19,6 +19,6 @@ There is also one known issue: the catfish is available in summer and fall but o
 
 With all that in mind, though, hopefully this will help some of you to make more money fishing.
 
-This program was written by me, Miriam Happ, and Andrew Klein. You are free to add onto, change, or otherwise use this program any way you wish. However I would appreciate it if you credited us or linked back to this GitHub page.
+This program was written by me, ViridescentCrane, and my boyfriend, who wishes to remain anonymous. You are free to add onto, change, or otherwise use this program any way you wish. However I would appreciate it if you credited us or linked back to this GitHub page.
 
 Happy fishing!
