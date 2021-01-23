@@ -1,14 +1,14 @@
 75|albacore|ocean|fall|winter|clear|rainy
 30|anchovy|ocean|spring|fall|clear|rainy
-120|blue discus|ginger island pond|ginger island river|spring|summer|fall|winter
+120|blue discus|gi pond|gi river|spring|summer|fall|winter|clear|rainy
 45|bream|town river|forest river|spring|summer|fall|winter|clear|rainy
 75|bullhead|mountain lake|spring|summer|fall|winter|clear|rainy
 30|carp|mountain lake|secret woods pond|the sewers|spring|summer|fall|winter|clear|rainy
-200|catfish|town river|forest river|secret woods pond|the witch’s swamp|spring|summer|fall|rainy
+200|catfish|town river|forest river|secret woods pond|witchs swamp|spring|summer|fall|rainy
 50|chub|forest river|mountain lake|spring|summer|fall|winter|clear|rainy
 100|dorado|forest river|summer|clear|rainy
 85|eel|ocean|spring|fall|rainy
-100|flounder|ocean|ginger island ocean|spring|summer|clear|rainy
+100|flounder|ocean|ginger island ocean|ginger island pirate cove|spring|summer|clear|rainy
 45|ghostfish|mines 20f|mines 60f|spring|summer|fall|winter|clear|rainy
 80|halibut|ocean|spring|summer|winter|clear|rainy
 30|herring|ocean|spring|winter|clear|rainy
@@ -16,12 +16,12 @@
 100|largemouth bass|mountain lake|spring|summer|fall|winter|clear|rainy
 700|lava eel|mines 100f|volcano caldera|spring|summer|fall|winter|clear|rainy
 120|lingcod|town river|forest river|mountain lake|winter|clear|rainy
-100|lionfish|ginger island ocean|spring|summer|fall|winter|clear|rainy
-150|midnight carp|mountain lake|forest pond|ginger island pond|ginger island river|fall|winter|clear|rainy
+100|lionfish|ginger island ocean|ginger island pirate cove|spring|summer|fall|winter|clear|rainy
+150|midnight carp|mountain lake|forest pond|gi pond|gi river|fall|winter|clear|rainy
 150|octopus|ocean|summer|clear|rainy
 55|perch|town river|forest river|forest pond|mountain lake|winter|clear|rainy
 100|pike|town river|forest river|forest pond|summer|winter|clear|rainy
-200|pufferfish|ocean|summer|clear
+200|pufferfish|ocean|ginger island pirate cove|summer|clear
 65|rainbow trout|town river|forest river|mountain lake|summer|clear
 75|red mullet|ocean|summer|winter|clear|rainy
 50|red snapper|ocean|summer|fall|winter|rainy
@@ -38,10 +38,10 @@
 300|stonefish|mines 20f|spring|summer|fall|winter|clear|rainy
 200|sturgeon|mountain lake|summer|winter|clear|rainy
 30|sunfish|town river|forest river|spring|summer|clear
-250|super cucumber|ocean|ginger island ocean|summer|fall|clear|rainy
+250|super cucumber|ocean|ginger island ocean|ginger island pirate cove|summer|fall|clear|rainy
 150|tiger trout|town river|forest river|fall|winter|clear|rainy
-75|tilapia|ocean|ginger island river|summer|fall|clear|rainy
+75|tilapia|ocean|gi river|summer|fall|clear|rainy
 100|tuna|ocean|summer|winter|clear|rainy
-150|void salmon|witch’s swamp|spring|summer|fall|winter|clear|rainy
+150|void salmon|witchs swamp|spring|summer|fall|winter|clear|rainy
 105|walleye|town river|forest river|secret woods pond|mountain lake|spring|summer|fall|winter|rainy
 75|woodskip|secret woods pond|spring|summer|fall|winter|clear|rainy
